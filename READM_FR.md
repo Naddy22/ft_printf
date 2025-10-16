@@ -2,7 +2,7 @@
 
 # ft_printf
 
-> 📄 Sujet officiel : *(ajouter le lien vers le PDF si disponible)*
+> 📄 Sujet officiel : [ft_printf_subject.pdf](https://github.com/Naddy22/ft_printf/blob/master/ft_printf_subject.pdf)
 
 ## Description du projet  
 **ft_printf** est un projet du cursus 42 dont l’objectif est de **reproduire la fonction `printf` de la bibliothèque standard C**.  
